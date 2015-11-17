@@ -1,12 +1,17 @@
 {
     "name": "kodermax/dev-zone",
     "description": "GetResponse API",   
-    "version" : "1.0",         
+    "version" : "1.1",         
     "minimum-stability": "stable",
     "authors": [
         {
             "name": "Kodermax",
             "email": "kodermax@gmail.com"
         }
+    ],
+    "autoload": {
+      "classmap": [
+        "API/lib/jsonRPCClient.php"
     ]
+  }
 }
