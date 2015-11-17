@@ -1,0 +1,13 @@
+{
+    "name": "kodermax/dev-zone",
+    "description": "GetResponse API",
+    "require": {
+        "4": "1.0"
+    },
+    "authors": [
+        {
+            "name": "Kodermax",
+            "email": "kodermax@gmail.com"
+        }
+    ]
+}
