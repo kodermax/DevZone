@@ -2,9 +2,6 @@
     "name": "kodermax/dev-zone",
     "description": "GetResponse API",   
     "version" : "1.0",
-    "require": {
-        "4": "1.0"
-    },
     "authors": [
         {
             "name": "Kodermax",
